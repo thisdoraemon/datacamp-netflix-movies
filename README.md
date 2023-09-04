@@ -1,56 +1,35 @@
-Project Overview:
+![Alt Text](https://i.imgur.com/oTyYq9f.jpeg)
 
-Objective: Perform data analysis on Netflix movie data, including creating a DataFrame, analyzing movie durations, and exploring movie genres.
 
-1. Introduction to the Project:
+# Netflix Movie Data Analysis
 
-   • Discuss how Netflix has evolved from a DVD rental service to a global entertainment giant.
-   
-   • Highlight the significance of data analysis in understanding trends and patterns in the entertainment industry.
+## Project Overview
+The objective of this project is to perform data analysis on Netflix movie data, including creating a DataFrame, analyzing movie durations, and exploring movie genres.
 
-3. Data Collection and Preparation:
-   
-    • Mention that your friend has provided a CSV file containing Netflix data.
-   
-    • Explain that the CSV file will be loaded into a Pandas DataFrame for analysis.
+## Introduction
+Netflix has evolved from a DVD rental service to a global entertainment giant. Data analysis plays a significant role in understanding trends and patterns in the entertainment industry.
 
-5. Initial Analysis: Average Movie Durations:
-   
-    • Discuss the observation that the average duration of movies on Netflix has been declining.
-   
-    • Present the provided information on average movie durations for the years 2011 to 2020.
+## Data Collection and Preparation
+The data for this project was provided by a friend in the form of a CSV file containing Netflix data. This CSV file will be loaded into a Pandas DataFrame for analysis.
 
-7. Project Scope and Tools:
-   
-    • Introduce the tools you'll be using, primarily Pandas for data manipulation and Matplotlib for data visualization.
-   
-    • Briefly discuss the Python programming language.
+## Initial Analysis: Average Movie Durations
+One observation from the data is that the average duration of movies on Netflix has been declining. The average movie durations for the years 2011 to 2020 are provided.
 
-8. Creating a DataFrame from Scratch:
-   
-    • Explain that you'll start by creating a DataFrame using a Python dictionary.
-   
-    • Provide code examples and explanations for creating the DataFrame using the given average movie duration data.
+## Project Scope and Tools
+The primary tools used in this project are Pandas for data manipulation and Matplotlib for data visualization. The Python programming language is also used.
 
-10. Data Analysis: Movie Genres and Durations:
-    
-    • Describe your plan to analyze the relationship between movie genres and their durations.
-    
-    • Mention that you'll categorize movies into different genres and assign colors based on the genre for visualization.
+## Creating a DataFrame from Scratch
+The first step in the analysis is to create a DataFrame using a Python dictionary. Code examples and explanations are provided for creating the DataFrame using the given average movie duration data.
 
-12. Visualizing Movie Genres and Durations:
-    
-    • Detail how you'll use Matplotlib to create scatter plots to visualize movie durations and genres.
-    
-    • Mention that you'll assign different colors to genres to make the visualizations more informative.
+## Data Analysis: Movie Genres and Durations
+The next step is to analyze the relationship between movie genres and their durations. Movies will be categorized into different genres and assigned colors based on the genre for visualization.
 
-14. Final Thoughts and Conclusion:
-    
-    • Summarize the key findings of your analysis.
-    
-    • Reflect on the significance of the results in the context of the declining average movie durations trend.
-    
-    • Discuss possible future directions for the project or other analyses that could be conducted.
+## Visualizing Movie Genres and Durations
+Matplotlib will be used to create scatter plots to visualize movie durations and genres. Different colors will be assigned to genres to make the visualizations more informative.
 
-Documentation:
-notebook.ipynb
+## Final Thoughts and Conclusion
+The key findings of the analysis are summarized, including the significance of the results in the context of the declining average movie durations trend. Possible future directions for the project or other analyses that could be conducted are also discussed.
+
+## Documentation
+The code for this project can be found in `notebook.ipynb`.
+The datasets can be found on `datasets` folder.
